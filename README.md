@@ -77,5 +77,3 @@ npm start
 
 ![video](./DataStructure_Visualization/example/maptree.gif)
 
-### **MultiMapTree**
-- insert
