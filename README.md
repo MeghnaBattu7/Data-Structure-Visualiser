@@ -48,34 +48,34 @@ npm start
 - push
 - pop  
 
-![video](./example/stack.gif)
+![video](./DataStructure_Visualization/example/stack.gif)
 
 ### **queue**
 - push
 - pop  
 
-![video](./example/queue.gif)
+![video](./DataStructure_Visualization/example/queue.gif)
 
 ### **priority queue**
 - push
 - pop
 
-![video](./example/priorityqueue.gif)
+![video](./DataStructure_Visualization/example/priorityqueue.gif)
 
 ### **SetTree**
 - insert
 
-![video](./example/settree.gif)
+![video](./DataStructure_Visualization/example/settree.gif)
 
 ### **MultiSetTree**
 - insert
 
-![video](./example/multisettree.gif)
+![video](./DataStructure_Visualization/example/multisettree.gif)
 
 ### **MapTree**
 - insert
 
-![video](./example/maptree.gif)
+![video](./DataStructure_Visualization/example/maptree.gif)
 
 ### **MultiMapTree**
 - insert
