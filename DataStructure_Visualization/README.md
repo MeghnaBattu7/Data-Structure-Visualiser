@@ -12,14 +12,11 @@ User can write down code using 'js_dsal' and JSON data.
 User can arbitrary select one of the method lists to confirm the operation.  
 
   
-Below is the webpage of this project 
-### **[Homepage Address](https://hongjisung.github.io/JS_DataStructure_Visualization/)**
 
 
-Below is 'js_dsal' library documentation
-### **[Library Document Homeage](https://hongjisung.github.io/DataStructure/)**
 
-### **[Data Structure Library Repository](https://github.com/hongjisung/DataStructure)**
+
+
 
 
 ### **Install dependencies**
