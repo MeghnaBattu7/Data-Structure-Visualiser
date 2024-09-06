@@ -1,4 +1,4 @@
-# **Javascript Data Structure Visualization**
+# **ReactJS Data Structure Visualization**
 - Web Page made by react
 
 ## **PurPose**
